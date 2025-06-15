@@ -1,7 +1,9 @@
 ## Hey!
 
-I'm a Statistics and Data Science student from Brazil since 2024.
-I'm currently using github to research, make conections and learn about programming.
+I'm a Statistics and Data Science student at UFPR, Brazil. 
+I'm currently using github to research, make conections and learn about programming for Statistics.
+
+
 
 
 
